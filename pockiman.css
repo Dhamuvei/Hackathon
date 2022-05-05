@@ -1,0 +1,23 @@
+#table{
+    color: aqua;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    font-size: 25px;
+   
+}
+#content{
+    color: rgb(19, 18, 18);
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: 'Concert One', cursive;
+    
+}
+#content:hover{
+    background-color: aqua;
+}
+#head{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 50px;
+}
